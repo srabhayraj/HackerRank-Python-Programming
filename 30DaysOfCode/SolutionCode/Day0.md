@@ -8,7 +8,7 @@ input_string = input()
 
 print('Hello, World.')
 
-print('Welcome to 30 Days of Code!')
+print(input_string)
 
 *TODO: Write a line of code here that prints the content of input_string to stdout.*
 
@@ -29,4 +29,17 @@ Welcome to 30 Days of Code!
 Expected Output
 Hello, World.
 Welcome to 30 Days of Code!
+
+Sample Test case 1
+
+Input (stdin)
+Hackerank is the best!
+
+Your Output (stdout)
+Hello, World.
+Hackerank is the best!
+
+Expected Output
+Hello, World.
+Hackerank is the best!
 ```

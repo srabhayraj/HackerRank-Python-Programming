@@ -1,7 +1,9 @@
 ## Day 1
 
 i = 4
+
 d = 4.0
+
 s = 'HackerRank '
 
 
@@ -14,11 +16,15 @@ The 's' variable above should be printed first.*/
 
 
 si1 = int(input())
+
 si2 = float(input())
+
 si3 = str(input())
 
 print(i + si1)
+
 print(d + si2)
+
 print(s + si3)
 
 ```

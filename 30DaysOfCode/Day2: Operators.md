@@ -1,4 +1,4 @@
-## [Day 2: Operators]()
+## [Day 2: Operators](https://github.com/srabhayraj/HackerRank-Python-Programming/blob/master/30DaysOfCode/SolutionCode/Day2.md)
 
 ### Objective
 

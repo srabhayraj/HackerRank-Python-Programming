@@ -25,6 +25,8 @@ else:
 ```
 
 ```
+###Output:
+
 Congratulations!
 
 You have passed the sample test cases. Click the submit button to run your code against all the test cases.

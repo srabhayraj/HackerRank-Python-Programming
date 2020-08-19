@@ -1,1 +1,1 @@
-## [if __name__ == “__main__”:](https://)
+## [if_name__ == “_main_”:](https://)

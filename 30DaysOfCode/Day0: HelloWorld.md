@@ -1,4 +1,4 @@
-## [Day 0: Hello, World.](https://)
+## [Day 0: Hello, World.](https://github.com/srabhayraj/HackerRank-Python-Programming/blob/master/30DaysOfCode/SolutionCode/Day0.md)
 
 ### Objective
 In this challenge, we review some basic concepts that will get you started with this series. You will need to use the same (or similar) syntax to read input and write output in challenges throughout HackerRank. Check out the Tutorial tab for learning materials and an instructional video!

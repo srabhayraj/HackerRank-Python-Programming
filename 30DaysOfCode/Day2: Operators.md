@@ -36,8 +36,13 @@ Given:
 mealCost = 12, tipPercent = 20, taxPercent = 8
 
 Calculations:
+
 tip = 12 * 20 / 100 = 2.4
+
 tax = 12 * 8 / 100 = 0.96
+
 totalCost = mealCost + tip + tax = 12 + 2.4 + 0.96 = 15.36
+
 round(totalCost) = 15
+
 We round totalCost to the nearest dollar (integer) and then print our result, 15.

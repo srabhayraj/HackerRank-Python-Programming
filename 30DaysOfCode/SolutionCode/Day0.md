@@ -7,6 +7,7 @@ input_string = input()
 *Print a string literal saying "Hello, World." to stdout.*
 
 print('Hello, World.')
+
 print('Welcome to 30 Days of Code!')
 
 *TODO: Write a line of code here that prints the content of input_string to stdout.*

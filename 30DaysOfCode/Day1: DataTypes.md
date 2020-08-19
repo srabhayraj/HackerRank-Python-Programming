@@ -1,4 +1,4 @@
-## Day 1: Data Types(https://github.com/srabhayraj/HackerRank-Python-Programming/blob/master/30DaysOfCode/SolutionCode/Day1.md)
+## [Day 1: Data Types](https://github.com/srabhayraj/HackerRank-Python-Programming/blob/master/30DaysOfCode/SolutionCode/Day1.md)
 
 ### Objective
 Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!

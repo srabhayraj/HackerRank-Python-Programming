@@ -1,4 +1,4 @@
-## Intro to Conditional Statements
+## [Intro to Conditional Statements](https://github.com/srabhayraj/HackerRank-Python-Programming/blob/master/30DaysOfCode/SolutionCode/Day3.md)
 
 ### Objective
 In this challenge, we're getting started with conditional statements. Check out the Tutorial tab for learning materials and an instructional video!

@@ -16,9 +16,9 @@ if N % 2 != 0:
 else:
     if N in range(2,5):
         print("Not Weird")
-    elif N in range(6,20): 
+    elif N in range(6,21): 
         print("Weird")
-    elif N > 20:
+    elif N >= 21: 
         print("Not Weird")
     else:
         print("Wrong Input")
